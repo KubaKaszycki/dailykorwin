@@ -7,3 +7,4 @@ dailykorwin_LDADD = libdailykorwin.la
 libdailykorwin_la_SOURCES = dailykorwin.c
 
 ACLOCAL_AMFLAGS = -I m4
+EXTRA_DIST = README.md
