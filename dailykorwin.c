@@ -313,7 +313,83 @@ const char *const _DAILYKORWIN_TEXTS[] = {
 	"papier gazetowy? Jeśli natomiast „sprawiedliwość\n"
 	"społeczna” jest czymś innym, niż zwykła „sprawiedliwość”\n"
 	"– to „co innego, niż sprawiedliwość” nazywa się po polsku\n"
-	"„niesprawiedliwość”."
+	"„niesprawiedliwość”.",
+
+	"Jak Państwo wiedzą słowa „L*d” (a zwłaszcza „Władza L**u”\n"
+	"czyli „d***kracja”) budzą u mnie odruchy wymiotne. W\n"
+	"pewnym sensie jednak jest to odruch irracjonalny – taki\n"
+	"sam jak przerażenie na widok smoka. A to dlatego, że ani\n"
+	"smoki, ani „Władza L**u” nie istnieją. Takich zwierząt\n"
+	"nie ma.",
+
+	"Jak przed 159 laty pisał wielki historiograf, Aleksy de\n"
+	"Tocqueville, im głupsza ustawa, tym więcej w niej\n"
+	"wyjątków. Jest to, istotnie, nieuniknione – bo gdyby\n"
+	"od głupiej ustawy nie było wyjątków, to po jej wprowadzeniu\n"
+	"życie stałoby się nieznośne. Dzięki istnieniu wyjątków, po\n"
+	"jakimś czasie wszystko staje się wyjątkiem – i głupota\n"
+	"zostaje szczęśliwie odizolowana",
+
+	"Jak wiadomo naczelnym – i w gruncie rzeczy jedynym – celem\n"
+	"Lewicy jest zniszczenie porządku społecznego. Utytłanie\n"
+	"wszystkich wartości, wdeptanie w błoto i wyśmianie takich\n"
+	"pojęć jak „honor”, „prawda”, zniszczenie wszystkiego, co\n"
+	"ludzkość przez parę tysięcy lat zbudowała i pełna\n"
+	"urawniłowka, czyli totalne zrównanie wszystkiego i zgnojenie\n"
+	"tych, którzy – tacy wrogowie Równości – z tego szamba\n"
+	"usiłują wystawić łepek.",
+	
+	"Jednej tylko rzeczy nie mogę zrozumieć: ludzie z PO potrafią\n"
+	"nie uledz naciskom z Brukseli i w tym „kryzysie” prowadzą\n"
+	"w Polsce dość rozsądną politykę – a jednocześnie chyba\n"
+	"szczerze deklarują, że Polska powinna ratyfikować ten \n"
+	"„Traktat Lizboński”… po wprowadzeniu którego większość 26\n"
+	"państw po prostu zmusi III Rzeczpospolitą do prowadzenia\n"
+	"takiej samej polityki, jak reszta państw Wspólnoty!!!",
+
+	"Jest taki artykuł KK, który mówi, kto przemocą lub\n"
+	"podstępem skłania inną osobę do niekorzystnego\n"
+	"rozporządzania się własnym, cudzym mieniem podlega karze.\n"
+	"Otóż, kto głosował w Sejmie za przymusem ubezpieczeń, ten\n"
+	"zmuszał mnie do niekorzystnego rozporządzania własnym\n"
+	"mieniem, a więc pójdzie siedzieć.",
+
+	"Jestem przekonany, że 90% z was to homo sovieticus.",
+
+	"Jestem również za legalizacją picia kawy bez cukru\n"
+	"(znacznie ohydniejsza w smaku, niż marihuana!) – ale\n"
+	"sam takowej nie piję. U mnie punkt widzenia nie zależy\n"
+	"od punktu siedzenia.",
+
+	"Jeszcze kiedyś powiesimy ostatniego d***kratę na\n"
+	"kiszkach ostatniego socjalisty!",
+
+	"Jeśli w wyniku własnej decyzji ginie człowiek\n"
+	"– to jego prywatna sprawa. Jeśli ginie 10.000 ludzi\n"
+	"– to jest to 10.000 prywatnych spraw – a nie „problem\n"
+	"społeczny”.",
+
+	"Jeśli więc zauważycie Państwo, że w jakiejś wypowiedzi\n"
+	"powołam się na „sprawiedliwość społeczną” lub zażądam\n"
+	"„wyrównywania szans” – to proszę natychmiast przestać\n"
+	"czytać moje blogi, i napisane po tej dacie artykuły\n"
+	"– kontentując się tymi, które napisałem, gdy byłem\n"
+	"jeszcze przy zdrowych zmysłach!",
+
+	"… jeżeli państwo zagłosują na jakiegoś kandydata z\n"
+	"tych partii, które są w Sejmie, to państwo\n"
+	"jesteście idioci.",
+
+	"Jeżeli państwo macie odrobinę zdrowego rozsądku,\n"
+	"to przede wszystkim głosujcie na wszystkich, (…)\n"
+	"tylko nie na tych łajdaków.(…) Jeżeli zagłosujecie\n"
+	"na te trzy partie [PiS, PO, centrolewica], to jest\n"
+	"tak samo jak za komuny – głosowaliście na PZPR. Skąd\n"
+	"PZPR miała się dowiedzieć, że było źle, skoro\n"
+	"wszyscy jak barany głosowali. (…). Jeśli państwo\n"
+	"jak barany zagłosujecie na przedstawicieli tych\n"
+	"trzech partii, to nie dziwcie się, że będzie tak jak\n"
+	"jest. (…)"
 };
 
 const char *const *const DAILYKORWIN_TEXTS = _DAILYKORWIN_TEXTS;
