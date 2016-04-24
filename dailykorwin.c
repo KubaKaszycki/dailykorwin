@@ -223,7 +223,97 @@ const char *const _DAILYKORWIN_TEXTS[] = {
 	"kraju kapitalistycznym gdy biedak w tico widzi bogacza w\n"
 	"jaguarze, to marzy o dniu w którym też sobie kupi jaguara. W\n"
 	"kraju komunistycznym myśli, by bogaczowi tego jaguara\n"
-	"skonfiskować, a w socjalizmie – bardzo wysoko opodatkować."
+	"skonfiskować, a w socjalizmie – bardzo wysoko opodatkować.",
+
+	"Homoś to jest rzecz normalna. Byli przez cztery tysiące lat,\n"
+	"są sobie – nikomu nie przeszkadzali. Natomiast geje, tfu, to\n"
+	"jest banda chamów importowanych z zagranicy. Część z nich; w\n"
+	"ogóle nie są homosiami. Oni tylko za pieniądze, że tak powiem,\n"
+	"udają homosiów. To są importowani z zagranicy ludzie, którzy\n"
+	"za pieniądze z zagranicy udają często; często w ogóle nie są\n"
+	"homosiami; dostają pieniądze, na to żeby rozbijać społeczeństwo\n"
+	"i imputować dziwaczne wartości.",
+
+	"I nie chodzi o estetykę: w społeczeństwie obowiązuje zasada:\n"
+	"„Z kim przestajesz, takim się stajesz”, więc i oglądanie\n"
+	"– godnych podziwu skądinąd – wysiłków para-sportowców może\n"
+	"przynieść – przejściowe, na szczęście – zaburzenia w motoryce!).\n"
+	"Jeśli chcemy, by ludzkość się rozwijała, w telewizji\n"
+	"powinniśmy oglądać ludzi zdrowych, pięknych, silnych, uczciwych,\n"
+	"mądrych – a nie zboczeńców, morderców, słabeuszy, nieudaczników,\n"
+	"kiepskich, idiotów – i inwalidów, niestety.",
+
+	"Ilość homosiów w każdym kraju jest od pół do jednego, czasami\n"
+	"w niektórych krajach, do półtora procenta.",
+
+	"Ja jakoś nie miałem edukacji seksualnej, a mam szóstkę dzieci.",
+
+	"Ja jestem Europejczykiem. Jestem dobrym Europejczykiem. I tak\n"
+	"samo jak dobry Rosjanin nienawidził Związku Sowieckiego, tak\n"
+	"samo jak dobry Niemiec nienawidził Trzeciej Rzeszy, tak samo\n"
+	"ja jako dobry Europejczyk nienawidzę Unii Europejskiej, pod\n"
+	"której okupacją Niemcy, potężne Niemcy, ze wspaniałą gospodarką,\n"
+	"od 20 lat rozwijają się w tempie plus 1% – minus 1%, w tej\n"
+	"chwili minus 5%. To jest wynik narzucenia przez Unię Europejską\n"
+	"absurdalnych, socjalistycznych przepisów.",
+
+	"Ja jestem liberałem – i uważam, że kobieta, która chce pracować\n"
+	"poza domem, powinna mieć takie prawo. Sprzeciwiam się tylko\n"
+	"sztucznemu subwencjonowaniu tej pracy, poprzez np. podatek\n"
+	"progresywny i subwencje do komunikacji zbiorowej oraz nieustanną\n"
+	"propagandę, utrzymującą, że kobieta „powinna pracować” (jakby\n"
+	"zajmowanie się domem nie było pracą!)",
+
+	"Ja też bym chętnie dorwał się do MEN i zalecił studiowanie\n"
+	"jako historii wyłącznie „Historii ruchów konserwatywnych i\n"
+	"liberalnych” – ale właśnie dlatego coś takiego jak MEN nie powinno\n"
+	"istnieć!",
+
+	"Jak gdzieś jedzie czołg, a ludzie ostrzeżeni się nie usuwają\n"
+	"– to ich prawo. Wolny człowiek w wolnym kraju ma prawo dać się\n"
+	"rozjechać. Na tym polega liberalizm.",
+
+	"Jak może istnieć ustrój, w którym dwóch meneli spod budki ma\n"
+	"dwa głosy, a profesor uniwersytetu ma jeden głos? Trzeba być\n"
+	"idiotą, żeby chcieć w takim ustroju żyć.",
+
+	"Jak widzę tolerancyjnego socjalistę z ludzką twarzą – to mam\n"
+	"ochotę wymierzyć solidnego kopa w środek tej twarzy.",
+
+	"… już zaczyna wracać nieznany w spisie Świętych Pańskich\n"
+	"św. Spokój. Już widać, że żadnych zasadniczych zmian nie będzie.",
+
+	"Ja, droga p. Kolendo-Zalewsko, publicystko, uważam akurat\n"
+	"p. Anetę Krawczykową nie za „kobietę zboczoną”, co brzmi\n"
+	"podniecająco, lecz za zwykłą k***ę – ale, oczywiście, nie\n"
+	"będę się przy tej ocenie upierał. Ostatecznie p. Lepper\n"
+	"zna Ją lepiej…",
+
+	"Ja w odróżnieniu od księdza, wierzę w Boga.",
+
+	"Ja od 40 lat przekonuję ludzi, że 2×2=4, za komuny była\n"
+	"teoria, że 2×2=12, w tej chwili jesteśmy przy twierdzeniu,\n"
+	"że 2×2=9. Już gdzieś tak ludzie uczynili postęp, ja już\n"
+	"mam tego dość. 2×2=4, jest 4, jest 4, jest 4, koniec.\n"
+	"Jeśli ktoś np. mówi tak, a to się mówi w tej chwili, np.\n"
+	"była minister finansów to powiedziała, że podatki takie\n"
+	"lepsze, niskie, to wprowadzimy, jak się nam podniosą\n"
+	"wskaźniki gospodarcze, jak to? To jeżeli się podniosą\n"
+	"bez planów podatki, to po co planować podatki i wskaźniki\n"
+	"wzrostu, to jest po prostu idiotka, kompletna idiotka,\n"
+	"która po prostu nie wiem, co robi, ona może być księgową,\n"
+	"nie ma pojęcia o gospodarce, ale ona była ministrem\n"
+	"wybrana, a ja jestem ekscentryczny.",
+
+	"Jak jednak wielokrotnie pisałem istnieją dwie – i tylko\n"
+	"dwie możliwości: albo „sprawiedliwość społeczna” jest\n"
+	"tym samym, co „sprawiedliwość” – albo jest czym innym.\n"
+	"Jeśli jest tym samym – to po co pisać „sprawiedliwość\n"
+	"społeczna”? Po co marnować czas czytelnika i sosny na\n"
+	"papier gazetowy? Jeśli natomiast „sprawiedliwość\n"
+	"społeczna” jest czymś innym, niż zwykła „sprawiedliwość”\n"
+	"– to „co innego, niż sprawiedliwość” nazywa się po polsku\n"
+	"„niesprawiedliwość”."
 };
 
 const char *const *const DAILYKORWIN_TEXTS = _DAILYKORWIN_TEXTS;

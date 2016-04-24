@@ -11,7 +11,8 @@ int x_random() {
 }
 #else
 int x_random() {
-	return rand();
+	// rand() is often low-quality on lower bits
+	return rand() >> 16;
 }
 #endif
 
